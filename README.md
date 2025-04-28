@@ -9,3 +9,11 @@ Trinity RNA-Seq de novo transcriptome assembly see the main webpage [http://trin
 ## Contributing
 
 We encourage you to contribute to Trinity! Please check out the [Contributing](https://github.com/trinityrnaseq/trinityrnaseq/wiki/Contributing) for the guidelines.
+
+## Archival
+
+Nano ID: Sx38GUjLFoae5cfoHReKn
+
+Archival date: 2025-04-28
+
+Archival notes: Data archived on tape 
